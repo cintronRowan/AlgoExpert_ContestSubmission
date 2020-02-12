@@ -11,6 +11,6 @@ you have a shield that will regenerate and a ship health that will not
 and last you have a radar system on your lower right that tracks enemy ship movements in your area
 
 The code is broken down into major elements of the game Player, Game Manager, Enemy’s and Radar
- and included in the git is the executable project demo so you can play the game for yourself
+The exe and unity assets are to large to put on git hub so i have sent you the demo via We Transfer 
 
 Enjoy and Thanks for making this contest
